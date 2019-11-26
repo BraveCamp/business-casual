@@ -2,4 +2,4 @@
 
 Template for a simple business
 
-Preview at https://bravecamptemplates.github.io/business-casual/
+Preview at https://bravecamp.github.io/business-casual/
